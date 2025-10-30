@@ -1,2 +1,0 @@
-# cv
-modelo de cv
